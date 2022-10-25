@@ -1,0 +1,17 @@
+/* You can add global styles to this file, and also import other style files */
+.text1
+{
+    height: 50%;
+    position:absolute;
+    top: 30%;
+    color: white;
+    font-size: 80;
+    width: 80%;
+    left: 40%;
+    font-weight: bold;
+    font-family: impact, sans-serif;
+}
+.background
+{
+    background-color: black;    
+}
