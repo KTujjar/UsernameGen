@@ -52,7 +52,9 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/javascript/index.js",
+            ]
           },
           "configurations": {
             "production": {

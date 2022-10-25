@@ -28,3 +28,7 @@
     left: 45%;
     padding: 3px 15px;
 }
+
+#seconds, #tens{
+    font-size:2em;
+}
