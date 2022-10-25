@@ -15,3 +15,16 @@
 {
     background-color: black;    
 }
+.startButton
+{
+    border-style: solid;
+    border-color: red;
+    background-color: red ;
+    color:black;   
+    font-size: 40px;
+    border-radius: 10px;    
+    position: absolute;
+    top: 55%;
+    left: 45%;
+    padding: 3px 15px;
+}
